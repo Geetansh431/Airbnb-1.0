@@ -1,6 +1,6 @@
 # TECH STACK :
-Javascript
-React
-Node 
-Express
+Javascript,
+React,
+Node,
+Express,
 MongoDB
